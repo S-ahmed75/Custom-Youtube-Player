@@ -1,0 +1,6 @@
+framework module Pods_youTube2 {
+  umbrella header "Pods-youTube2-umbrella.h"
+
+  export *
+  module * { export * }
+}

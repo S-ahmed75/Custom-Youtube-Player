@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (4.7.3)
+  - APESuperHUD (2.0.1)
+  - IQKeyboardManager (6.2.0)
+  - ReachabilitySwift (4.3.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - youtube-ios-player-helper (0.1.6)
+  - YouTubePlayer (0.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7.0)
+  - APESuperHUD (from `https://github.com/apegroup/APESuperHUD.git`)
+  - IQKeyboardManager
+  - ReachabilitySwift
+  - SDWebImage (~> 4.0)
+  - youtube-ios-player-helper (~> 0.1.1)
+  - YouTubePlayer
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManager
+    - ReachabilitySwift
+    - SDWebImage
+    - youtube-ios-player-helper
+    - YouTubePlayer
+
+EXTERNAL SOURCES:
+  APESuperHUD:
+    :git: https://github.com/apegroup/APESuperHUD.git
+
+CHECKOUT OPTIONS:
+  APESuperHUD:
+    :commit: 0a7aecdf9d00094824b68d2f15e0f277ea3b767b
+    :git: https://github.com/apegroup/APESuperHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  APESuperHUD: 18ce2f9f114dd38d8fef5a6831e71ae9634cfc26
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+
+PODFILE CHECKSUM: 22c57711f3915a6bbdd1edff033c39a39492be1f
+
+COCOAPODS: 1.5.3
